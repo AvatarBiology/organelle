@@ -1,0 +1,5 @@
+{
+  "name": "真核細胞構造與功能配對",
+  "description": "3D 互動環境，讓學生點選細胞中的各個胞器，並與其相對的功能進行配對。",
+  "requestFramePermissions": []
+}
